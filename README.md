@@ -1,12 +1,14 @@
-# Rep Lookup Tool
+# My Reps
 
-Participatory Budgeting Project
+Enter your address and find your local elected representatives. Then tell them to support [participatory budgeting](https://en.wikipedia.org/wiki/Participatory_budgeting)! 
+
+Built by [DataMade](https://datamade.us/) for the [Participatory Budgeting Project](http://participatorybudgeting.org/).
 
 ## Running locally
 
 ``` bash
-git clone git@github.com:datamade/rep-lookup-tool.git
-cd rep-lookup-tool
+git clone git@github.com:datamade/my-reps.git
+cd my-reps
 
 # to run locally
 jekyll serve -w
@@ -31,7 +33,7 @@ We used the following open source tools:
 ## Errors / Bugs
 
 If something is not behaving intuitively, it is a bug, and should be reported.
-Report it here: https://github.com/datamade/rep-lookup-tool/issues
+Report it here: https://github.com/datamade/my-reps/issues
 
 ## Note on Patches/Pull Requests
  
@@ -41,4 +43,4 @@ Report it here: https://github.com/datamade/rep-lookup-tool/issues
 
 ## Copyright
 
-Copyright (c) 2016 DataMade and Participatory Budgeting Projet. Released under the [MIT License](https://github.com/datamade/rep-lookup-tool/blob/master/LICENSE).
+Copyright (c) 2016 DataMade and Participatory Budgeting Projet. Released under the [MIT License](https://github.com/datamade/my-reps/blob/master/LICENSE).
