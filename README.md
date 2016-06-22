@@ -2,7 +2,7 @@
 
 Enter your address and find your local elected representatives. Then tell them to support [participatory budgeting](https://en.wikipedia.org/wiki/Participatory_budgeting)! 
 
-Built by [DataMade](https://datamade.us/) for the [Participatory Budgeting Project](http://participatorybudgeting.org/).
+Built by [DataMade](https://datamade.us/) for the [Participatory Budgeting Project](http://participatorybudgeting.org/). Powered by the [Google Civic Information API](https://developers.google.com/civic-information/).
 
 ## Running locally
 
@@ -18,6 +18,9 @@ navigate to http://localhost:5000/
 
 
 # Web dependencies
+
+Data comes from the [Google Civic Information API](https://developers.google.com/civic-information/).
+
 We used the following open source tools:
 
 * [Bootstrap](http://getbootstrap.com/) - Responsive HTML, CSS and Javascript framework
