@@ -1,4 +1,4 @@
-# My Reps
+# My Reps - Participatory Budgeting Project
 
 Enter your address and find your local elected representatives. Then tell them to support [participatory budgeting](https://en.wikipedia.org/wiki/Participatory_budgeting)! 
 
