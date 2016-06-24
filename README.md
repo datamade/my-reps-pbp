@@ -7,8 +7,8 @@ Built by [DataMade](https://datamade.us/) for the [Participatory Budgeting Proje
 ## Running locally
 
 ``` bash
-git clone git@github.com:datamade/my-reps.git
-cd my-reps
+git clone git@github.com:datamade/my-reps-pbp.git
+cd my-reps-pbp
 
 # to run locally
 jekyll serve -w
@@ -36,7 +36,7 @@ We used the following open source tools:
 ## Errors / Bugs
 
 If something is not behaving intuitively, it is a bug, and should be reported.
-Report it here: https://github.com/datamade/my-reps/issues
+Report it here: https://github.com/datamade/my-reps-pbp/issues
 
 ## Note on Patches/Pull Requests
  
@@ -46,4 +46,4 @@ Report it here: https://github.com/datamade/my-reps/issues
 
 ## Copyright
 
-Copyright (c) 2016 DataMade and Participatory Budgeting Projet. Released under the [MIT License](https://github.com/datamade/my-reps/blob/master/LICENSE).
+Copyright (c) 2016 DataMade and Participatory Budgeting Projet. Released under the [MIT License](https://github.com/datamade/my-reps-pbp/blob/master/LICENSE).
