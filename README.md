@@ -26,7 +26,6 @@ We used the following open source tools:
 * [Bootstrap](http://getbootstrap.com/) - Responsive HTML, CSS and Javascript framework
 * [Leaflet](http://leafletjs.com/) - javascript library interactive maps
 * [jQuery Address](https://github.com/asual/jquery-address) - javascript library creating RESTful URLs
-* [GitHub pages](https://pages.github.com/) - free static website hosting
 
 ## Team
 
